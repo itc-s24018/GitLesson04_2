@@ -6,8 +6,8 @@
 * 紹介ページ s24018[牧場物語](https://www.bokumono.com/)
 
 ##メンバー２  
-* 紹介ページ s24023[原神](https://genshin.hoyoverse.com/ja)
+* 紹介ページ s24023[]()
 
 ##メンバー３  
-* 紹介ページ s24019[第五人格](https://www.identityvgame.com/jp/)
+* 紹介ページ s24019[]()
 
