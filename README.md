@@ -2,11 +2,11 @@
 # チームメンバーの好きなゲーム
 
 ## メンバー１  
-* 紹介ページ s24018[牧場物語](https://www.bokumono.com/)
+* 紹介ページ s24018[牧場物語](./s24018/s24018.md)
 
 ## メンバー２  
-* 紹介ページ s24023[原神](https://genshin.hoyoverse.com/)
+* 紹介ページ s24023[原神](./s24019/s24023.md)
 
 ## メンバー３  
-* 紹介ページ s24019[恋と庭](https://loveanddeepspace.infoldgames.com/ja-JP/home)
+* 紹介ページ s24019[恋と庭](s24023/s24023.md)
 
