@@ -4,7 +4,7 @@
 ## メンバー１  
 * 紹介ページ s24018[牧場物語](https://www.bokumono.com/)
 
-##　メンバー２  
+## メンバー２  
 * 紹介ページ s24023[原神](https://genshin.hoyoverse.com/)
 
 ## メンバー３  
