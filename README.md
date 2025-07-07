@@ -8,5 +8,5 @@
 * 紹介ページ s24023[原神](https://genshin.hoyoverse.com/)
 
 ## メンバー３  
-* 紹介ページ s24019[]()
+* 紹介ページ s24019[恋と庭](https://loveanddeepspace.infoldgames.com/ja-JP/home)
 
